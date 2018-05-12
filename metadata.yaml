@@ -1,0 +1,48 @@
+_repo: Romeo-i-JuliaTragedya-w-5-Aktach_27062
+_version: 0.1.0
+alternative_title: Romeo and Juliet. Polish
+contributor:
+  translator:
+    agent_name: Paszkowski, Józef
+    alias: Paszkowski, Jozef
+    birthdate: 1817
+    deathdate: 1861
+    gutenberg_agent_id: '32426'
+    url: http://www.gutenberg.org/2009/agents/32426
+    wikipedia: http://pl.wikipedia.org/wiki/J%C3%B3zef_Paszkowski
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Shakespeare, William
+    aliases:
+    - Shakspeare, William
+    - Shakspere, William
+    birthdate: 1564
+    deathdate: 1616
+    gutenberg_agent_id: '65'
+    url: http://www.gutenberg.org/2009/agents/65
+    wikipedia: http://en.wikipedia.org/wiki/William_Shakespeare
+description: ''
+gutenberg_issued: '2008-10-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27062'
+language: pl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Romeo (Fictitious character) -- Drama'
+- !lcsh 'Vendetta -- Drama'
+- !lcsh 'Verona (Italy) -- Drama'
+- !lcsh 'Tragedies'
+- !lcsh 'Youth -- Drama'
+- !lcsh 'Juliet (Fictitious character) -- Drama'
+- !lcsh 'Conflict of generations -- Drama'
+- !lcc 'PR'
+title: 'Romeo i Julia
+
+  Tragedya w 5 Aktach'
+url: http://www.gutenberg.org/ebooks/27062
